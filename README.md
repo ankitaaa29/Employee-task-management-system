@@ -159,3 +159,13 @@ docker-compose up --build
 - `GET /api/reports/employee-wise` - Aggregate breakdown count by employee
 - `GET /api/reports/export/csv?type=...` - Stream CSV file download
 - `GET /api/reports/export/excel?type=...` - Stream formatted Excel sheet download
+
+## Application Flow Diagram
+
+![Application Flow Diagram](docs/Application flow diagram.jpeg)
+
+---
+
+## Architecture Diagram
+
+![Architecture Diagram](docs/Architecture_diagram.jpeg)
